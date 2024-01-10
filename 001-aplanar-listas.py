@@ -1,4 +1,4 @@
-""" 07/11/2023
+""" Como aplanar listas - 07/11/2023
 Aplanar ou "flatten" significa transformar uma lista que pode conter listas aninhadas (do inglês "nested", são listas dentro de outras listas) em uma única linha unidimensional, onde todos os elementos estão no mesmo nível.
 Por exemplo:
 
